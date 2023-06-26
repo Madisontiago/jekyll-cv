@@ -3,16 +3,16 @@ support_dark_mode: true
 fork: true
 
 # Sidebar
-contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+contact: 84-999119127
+  email: Madsontiago20@gmail.com
+  github: Madison
+  linkedin: Madison
   phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
+  - idiom: Portugues
   - idiom: Russian
   - idiom: French
 
@@ -41,11 +41,25 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Nome: Madison Thiago
+
+Idade: 16 anos
+
+Localização: Rio Grande do Norte, Brasil
+
+Bio: Olá! Meu nome é Madison Thiago, tenho 16 anos e sou um estudante de informática apaixonado por tecnologia. Atualmente, moro no incrível estado do Rio Grande do Norte, onde encontro inspiração em sua cultura vibrante e nas belas paisagens que o rodeiam.
+
+Desde cedo, desenvolvi um interesse profundo pela área da informática e suas infinitas possibilidades. Estou constantemente em busca de conhecimento e aprimoramento, explorando diferentes linguagens de programação, como Python, Java e C++, para expandir minhas habilidades e compreender as bases da criação de software.
+
+Meu objetivo é utilizar o poder da tecnologia para resolver problemas do mundo real e criar soluções inovadoras. Estou particularmente interessado em inteligência artificial e desenvolvimento de aplicativos, áreas que considero essenciais para impulsionar o progresso tecnológico e melhorar a vida das pessoas.
+
+Como estudante comprometido, estou sempre procurando novas oportunidades para aprender e crescer. Estou envolvido em projetos escolares relacionados à tecnologia e participo de cursos online para me manter atualizado com as últimas tendências.
+
+Fora do mundo da informática, gosto de explorar outras áreas de interesse, como música e artes visuais. Acredito que a criatividade e a expressão artística são importantes para equilibrar minha vida e fornecer novas perspectivas em minha jornada tecnológica.
+
+Estou entusiasmado com as possibilidades que o futuro reserva para a área de informática e estou determinado a desempenhar um papel significativo nesse cenário em constante evolução. Se você compartilha da mesma paixão pela tecnologia ou está interessado em colaborar em projetos inovadores, não hesite em entrar em contato comigo. Juntos, podemos conquistar grandes conquistas!
+
+#Informática #Programação #Tecnologia #RioGrandedoNorte #Estudante
 
 # Experience
 experience:
