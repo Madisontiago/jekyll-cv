@@ -1,15 +1,10 @@
-name: Madison
+name: John Doe
 support_dark_mode: true
 fork: true
 
 # Sidebar
-<<<<<<< HEAD
 contact: 84-999119127
   email: Madsontiago20@gmail.com
-=======
-contact:
-  email: info@Madison.com
->>>>>>> c56c245599a4c4439aca2737824bed7c1ea9a17e
   github: Madison
   linkedin: Madison
   phone: 
